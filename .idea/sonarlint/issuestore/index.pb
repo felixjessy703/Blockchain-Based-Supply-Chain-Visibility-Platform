@@ -7,3 +7,5 @@ M
 contracts/event-tracking.clar,3/7/379142b1e96c19090eceaf6682d6542dc169c281
 T
 $contracts/location-verification.clar,f/b/fbb652b2040751970834fb556696976a470ebdc3
+S
+#contracts/product-registration.clar,8/6/8657cae640c8ecd6bb94fb5ec8a3fe40377012de

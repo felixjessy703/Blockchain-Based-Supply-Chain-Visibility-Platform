@@ -1,0 +1,39 @@
+[project]
+name = 'Blockchain-Based-Supply-Chain-Visibility-Platform'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.entity-verification]
+path = 'contracts/entity-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.event-tracking]
+path = 'contracts/event-tracking.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.location-verification]
+path = 'contracts/location-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.product-registration]
+path = 'contracts/product-registration.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.status-notification]
+path = 'contracts/status-notification.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false

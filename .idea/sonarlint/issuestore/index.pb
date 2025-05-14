@@ -9,3 +9,5 @@ T
 $contracts/location-verification.clar,f/b/fbb652b2040751970834fb556696976a470ebdc3
 S
 #contracts/product-registration.clar,8/6/8657cae640c8ecd6bb94fb5ec8a3fe40377012de
+R
+"contracts/status-notification.clar,5/6/567447bcd99920e07512c662e6dff84005c33a29

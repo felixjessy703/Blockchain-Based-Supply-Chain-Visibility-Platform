@@ -5,3 +5,5 @@ R
 "contracts/entity-verification.clar,6/6/660a74c2729ef5ed0792e040998f714055016c6e
 M
 contracts/event-tracking.clar,3/7/379142b1e96c19090eceaf6682d6542dc169c281
+T
+$contracts/location-verification.clar,f/b/fbb652b2040751970834fb556696976a470ebdc3
